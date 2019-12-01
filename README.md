@@ -12,3 +12,7 @@ There are two files one is sorting_lib.py and sorting.py , where as step by step
 ### Clustering and k-Means
 
 There are two files, the K-Means Function is avaialble in clustering_lib.py , where as the plot for clustering is in Clustering.py
+
+### Can K-means go wrong
+
+Comments on this issue is available in the main.ipynb (end)
