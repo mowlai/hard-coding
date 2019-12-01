@@ -9,6 +9,6 @@ File named as Hashing.py and step by step construction is in main.ipynb
 
 There are two files one is sorting_lib.py and sorting.py , where as step by step construction is available in main.ipynb
 
-### Clustering and Map Reduce
+### Clustering and k-Means
 
 There are two files, the K-Means Function is avaialble in clustering_lib.py , where as the plot for clustering is in Clustering.py
