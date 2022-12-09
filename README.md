@@ -1,5 +1,5 @@
-# ADM_2019_HW4
-This HW Containg three task, we aloted three task into three members
+# Hard Coding
+This projects contains three parts.
 
 ### Hashing- Hash function - Bloomfilter
 
@@ -15,4 +15,4 @@ There are two files, the K-Means Function is avaialble in clustering_lib.py , wh
 
 ### Can K-means go wrong
 
-Comments on this issue is available in the main.ipynb (end)
+Comments on this issue is available in the main.ipynb
